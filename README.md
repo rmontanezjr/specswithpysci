@@ -1,2 +1,3 @@
 # specswithpysci
-Analyaze and Publish Specs for 
+Analyaze and Publish specification for electronic sheets.
+
